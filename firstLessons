@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First project</title>
+</head>
+<body>
+    <h1>Hi, everybody!</h1>
+    <p>You can look at these things:</p>
+    <ul>
+        <li>Hi</li>
+        <li>Hello</li>
+        <li>Hi, there!</li>
+        <li>What`s up?</li>
+    </ul>
+</body>
+</html>
